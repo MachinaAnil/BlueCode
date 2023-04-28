@@ -1,4 +1,7 @@
 #!/bin/bash
+do
+ echo "Hii Anil"
+done
 #create users .. using while loop
 #
 while :
