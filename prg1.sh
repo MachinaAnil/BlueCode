@@ -7,4 +7,7 @@ done
 do
  echo "hi i am Anil 2 $i"
 done
+do
+ echo "HII ANIL 3 $i "
+done
 #end
