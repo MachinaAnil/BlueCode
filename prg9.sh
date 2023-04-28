@@ -19,4 +19,4 @@ do
   echo "cant create user.. $1 user exits...continue with next user"
   fi #inner if close
 fi #outer if
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidone #while close
+#End helllo Bye
